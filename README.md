@@ -1,6 +1,5 @@
 
 # Target-Date Fund design
-关键字：目标日期基金(target date fund); 养老理财(BD); 下滑曲线； 投资组合(portfolio); 蒙特卡洛模拟
 Combined with human capital, Ibbotson's portfolio theory and risk parity, I designed an target-date fund (fund of fund) to help clients make assets increased to better cope with people's old age. The project mainly teach you how to plot the equity  glide curve and allocate the weights of the underlying funds. Tha data used in the project could be got from financial database, such as Wind.
 
 
